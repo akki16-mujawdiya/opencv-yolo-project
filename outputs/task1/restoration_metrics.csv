@@ -1,0 +1,9 @@
+Noise type,Image,PSNR (dB),SSIM
+Gaussian noise,Noisy (no filter),20.44,0.2793
+Gaussian noise,Median 3x3,25.86,0.5279
+Gaussian noise,Median 5x5,25.18,0.6626
+Gaussian noise,Gaussian 5x5,26.29,0.6961
+Salt & pepper noise,Noisy (no filter),18.14,0.3192
+Salt & pepper noise,Median 3x3,30.34,0.936
+Salt & pepper noise,Median 5x5,26.3,0.875
+Salt & pepper noise,Gaussian 5x5,25.41,0.6406

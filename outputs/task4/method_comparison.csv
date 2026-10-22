@@ -1,0 +1,4 @@
+Method,Output,Avg foreground area (% of frame) / moving points,Avg blobs per frame,Avg time per frame (ms),Strengths / weaknesses
+Frame differencing,Binary motion mask (changed pixels),5.95,1.9,0.62,"Very fast, no model; only edges of the mover show up and it reacts to any camera shake"
+GMM background subtraction (MOG2),Binary foreground mask (full object),8.47,1.0,4.92,"Fills the whole object and ignores static background, but needs warm-up and a steady camera"
+Lucas-Kanade optical flow,Sparse motion vectors (direction + speed),89.3 moving of 250 tracked pts,-,10.88,"Only method that gives direction and speed, but only at corner points, not whole regions"

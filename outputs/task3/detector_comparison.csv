@@ -1,0 +1,7 @@
+Image,Haar faces,Haar time (ms),YOLO objects,YOLO classes,YOLO time (ms),Observation
+photo,1,3736,2,person x2,11157,Both detectors roughly agree
+video_frame_1_(#17),1,181,3,"frisbee x1, person x1, sports ball x1",106,Both detectors roughly agree
+video_frame_2_(#53),2,132,4,"person x1, sports ball x3",84,Haar reported more faces than YOLO reported people (check for a false positive)
+video_frame_3_(#89),2,129,4,"frisbee x1, kite x1, person x1, sports ball x1",77,Haar reported more faces than YOLO reported people (check for a false positive)
+video_frame_4_(#125),1,136,2,"person x1, sports ball x1",75,Both detectors roughly agree
+video_frame_5_(#161),1,141,3,"frisbee x1, person x1, sports ball x1",70,Both detectors roughly agree

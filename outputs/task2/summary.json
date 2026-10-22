@@ -1,0 +1,8 @@
+{
+  "photo2_file": "Photo2.jpeg",
+  "hog_vector_length": 8100,
+  "hog_cosine_similarity": 0.895,
+  "ratio_test": 0.75,
+  "keypoints_photo1": 1871,
+  "keypoints_photo2": 1931
+}

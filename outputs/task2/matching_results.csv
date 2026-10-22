@@ -1,0 +1,5 @@
+Experiment,Keypoints (photo 1),Keypoints (photo 2 version),Good matches (ratio test),RANSAC inliers,Inlier ratio,Avg match distance
+A. Original vs original,1871,1931,150,129,86.0%,188.6
+B. Photo 2 rotated 45 deg,1871,2000,140,124,88.6%,193.1
+C. Photo 2 resized to 50%,1871,514,94,75,79.8%,198.5
+D. Photo 2 rotated 30 deg + 70% size,1871,1147,138,104,75.4%,196.5

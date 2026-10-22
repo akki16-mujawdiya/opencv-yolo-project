@@ -1,0 +1,10 @@
+{
+  "video_resolution": "960x540",
+  "fps": 30.0,
+  "total_frames": 180,
+  "duration_s": 6.0,
+  "start_frame": 72,
+  "frames_analysed": 107,
+  "work_width": 640,
+  "mean_flow_residual_px": 1.139
+}

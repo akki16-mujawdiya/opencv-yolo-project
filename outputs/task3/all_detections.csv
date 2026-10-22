@@ -1,0 +1,27 @@
+Image,Detector,Label,Confidence / weight,x1,y1,x2,y2
+photo,Haar,face,7.18,436,303,532,399
+photo,YOLO,person,0.906,337,263,605,1277
+photo,YOLO,person,0.373,546,538,814,1092
+video_frame_1_(#17),Haar,face,6.574,89,235,163,309
+video_frame_1_(#17),YOLO,person,0.695,15,194,208,495
+video_frame_1_(#17),YOLO,frisbee,0.561,574,363,657,445
+video_frame_1_(#17),YOLO,sports ball,0.406,731,73,823,164
+video_frame_2_(#53),Haar,face,5.797,247,237,321,311
+video_frame_2_(#53),Haar,face,0.96,155,160,402,407
+video_frame_2_(#53),YOLO,person,0.706,173,196,365,496
+video_frame_2_(#53),YOLO,sports ball,0.434,734,74,826,167
+video_frame_2_(#53),YOLO,sports ball,0.308,80,359,157,433
+video_frame_2_(#53),YOLO,sports ball,0.261,577,364,662,447
+video_frame_3_(#89),Haar,face,6.377,432,240,506,314
+video_frame_3_(#89),Haar,face,1.114,334,160,584,410
+video_frame_3_(#89),YOLO,person,0.539,361,199,550,500
+video_frame_3_(#89),YOLO,sports ball,0.535,736,76,829,169
+video_frame_3_(#89),YOLO,kite,0.529,360,194,547,500
+video_frame_3_(#89),YOLO,frisbee,0.347,580,366,664,451
+video_frame_4_(#125),Haar,face,8.167,621,240,694,313
+video_frame_4_(#125),YOLO,person,0.624,547,197,736,501
+video_frame_4_(#125),YOLO,sports ball,0.571,731,74,823,168
+video_frame_5_(#161),Haar,face,5.855,780,240,854,314
+video_frame_5_(#161),YOLO,person,0.786,708,201,899,499
+video_frame_5_(#161),YOLO,sports ball,0.591,733,72,825,165
+video_frame_5_(#161),YOLO,frisbee,0.413,577,363,662,444

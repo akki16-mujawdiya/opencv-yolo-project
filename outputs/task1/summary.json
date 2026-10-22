@@ -1,0 +1,12 @@
+{
+  "otsu_threshold": 130.0,
+  "canny_auto_low": 92,
+  "canny_auto_high": 183,
+  "edge_pixels_fixed_pct": 3.48,
+  "edge_pixels_auto_pct": 3.65,
+  "foreground_pct_after_opening": 41.89,
+  "photo_file": "photo.jpeg",
+  "image_size": "675x900",
+  "watershed_source": "photo.jpeg",
+  "watershed_segments": 126
+}

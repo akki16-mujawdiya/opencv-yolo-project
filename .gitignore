@@ -1,0 +1,18 @@
+# python stuff
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# big files - keep these on Google Drive instead
+data/*.mp4
+data/*.mov
+data/*.avi
+data/*.mkv
+outputs/**/*.mp4
+*.pt
+
+# os junk
+.DS_Store
+Thumbs.db

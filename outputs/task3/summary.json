@@ -1,0 +1,7 @@
+{
+  "yolo_model": "yolov8n.pt",
+  "yolo_conf_threshold": 0.25,
+  "images_processed": 6,
+  "video_frames_total": 180,
+  "video_fps": 30.0
+}
